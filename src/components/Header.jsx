@@ -1,6 +1,9 @@
+
+import './Header.css';
+
 function Header() {
     return (
-        <header>
+        <header className="header">
             <h1>Çağla's Portfolio</h1>
         </header>
     );

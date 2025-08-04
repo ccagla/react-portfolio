@@ -1,0 +1,16 @@
+
+.header {
+    background-color: #f5f0ff;
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 2px solid #d8b4fe;
+
+}
+
+.header h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #6b21a8;
+    font-size: 2rem;
+    margin: 0;
+}
+
