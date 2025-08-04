@@ -1,12 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Portfolio App
 
-Currently, two official plugins are available:
+This is a personal portfolio project built with **React** and **CSS**. It showcases my background, skills, and all the frontend projects I've built so far.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Component-based architecture** with reusable components
+- **Responsive layout** for mobile, tablet, and desktop
+- All projects are listed using a **custom ProjectCard component**
+- Easy-to-update project data using a separate `data/projects.js` file
+- Clean UI with semantic HTML and accessibility-friendly structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## What I Learned
+
+- React fundamentals: `Component`, `Props`, `JSX`
+- How to organize a portfolio using reusable components
+- Passing data with `props` and dynamic rendering with `.map()`
+- File structure and styling in a React project
+- Clean Git workflow with `.gitignore`, `.env` (for future projects), and proper commits
+
+
+## Tech Stack
+
+- **React**
+- **CSS**
+- **Vite** (build tool)
+- **Git & GitHub** (version control)
